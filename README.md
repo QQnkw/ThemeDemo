@@ -1,7 +1,7 @@
 # ThemeDemo
 
 Databinding+LiveData轻松实现无重启换肤
-
+文章地址链接:https://juejin.cn/post/7061453421231996958
 - 无重启动态换肤(不需要recreate())
 - 无额外依赖(Databinding+LiveData本身几乎开发必备)
 - 低侵入性
